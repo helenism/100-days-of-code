@@ -26,3 +26,6 @@
 
 **Link to work**
 1. [Helenism Doodles](https://github.com/helenism/helenism-doodles)
+
+<hr>
+Stay updated with my progress via twitter [@_helenism](https://twitter.com/_helenism)
