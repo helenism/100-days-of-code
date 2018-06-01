@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Helen's Log
 
 ### Day 1: Tuesday 29th May 2018
 
