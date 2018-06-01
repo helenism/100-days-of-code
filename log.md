@@ -22,7 +22,7 @@
 
 **Today's Progress**: I made a new repository where I will collect all my little doodle experiments on GitHub. 
 
-**Thoughts**: These are some blocks of code that are too small to have their own repositories, but have very specific purposes which I can refer to in the future when I am coding for bigger projects. The first doodle is a button that converts the temperature in fahrenheit to celsius.
+**Thoughts**: These are some blocks of code that are too small to have their own repositories, but have very specific purposes which I can refer to in the future when I am coding for bigger projects. The first doodle is a button that converts the temperature in fahrenheit to celsius. I'm getting more and more used to playing around with GitHub ✨
 
 **Link to work**
 1. [Helenism Doodles](https://github.com/helenism/helenism-doodles)
