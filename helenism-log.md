@@ -25,7 +25,7 @@
 **Thoughts**: These are some blocks of code that are too small to have their own repositories, but have very specific purposes which I can refer to in the future when I am coding for bigger projects. The first doodle is a button that converts the temperature in fahrenheit to celsius. I'm getting more and more used to playing around with GitHub ✨
 
 **Link to work**
-1. [Helenism Doodles](https://github.com/helenism/helenism-doodles)
+1. [Helenism Doodles - Fahrenheit to Celcius](https://github.com/helenism/helenism-doodles)
 
 ### Day 4: Saturday 2nd June 2018
 
@@ -34,7 +34,7 @@
 **Thoughts**: This helped me to practice using loops in a real life situation and dealing with tag id's.
 
 **Link to work**
-1. [Helenism Doodles](https://github.com/helenism/helenism-doodles)
+1. [Helenism Doodles - Array to List](https://github.com/helenism/helenism-doodles)
 
 <hr>
 Stay updated with my progress via https://twitter.com/_helenism
