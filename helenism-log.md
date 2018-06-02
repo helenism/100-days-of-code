@@ -27,5 +27,14 @@
 **Link to work**
 1. [Helenism Doodles](https://github.com/helenism/helenism-doodles)
 
+### Day 4: Saturday 2nd June 2018
+
+**Today's Progress**: I converted strings in an array into a list using JavaScript. 
+
+**Thoughts**: This helped me to practice using loops in a real life situation and dealing with tag id's.
+
+**Link to work**
+1. [Helenism Doodles](https://github.com/helenism/helenism-doodles)
+
 <hr>
 Stay updated with my progress via https://twitter.com/_helenism
