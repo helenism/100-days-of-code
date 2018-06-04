@@ -9,6 +9,7 @@
 **Link to work**
 1. [Contribute to This - Open Source Project](https://github.com/helenism/Contribute-To-This-Project/blob/helen-card/index.html)
 
+<hr>
 ### Day 2: Thursday 31st May 2018
 
 **Today's Progress**: Using HTML and Javascript, I created an interactive questionnaire to determine whether you need antihypertensive medication based on you blood pressure, and if so, what type, based on your age.
@@ -18,6 +19,7 @@
 **Link to work**
 1. [Antihypertensive Medication Questionnaire](https://github.com/helenism/antihypertensive)
 
+<hr>
 ### Day 3: Friday 1st June 2018
 
 **Today's Progress**: I made a new repository where I will collect all my little doodle experiments on GitHub. 
