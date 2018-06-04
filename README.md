@@ -45,7 +45,7 @@
 
 **Links to work**
 1. [Project: Restaurant](https://github.com/helenism/project-restaurant)
-2. [Calculating a 20% Tip (HTML; JS)](https://github.com/helenism/project-restaurant/blob/master/tip.html)
+2. [Calculating a 20% Tip](https://github.com/helenism/project-restaurant/blob/master/tip.html)
 
 #
 Stay updated with my progress via https://twitter.com/_helenism
