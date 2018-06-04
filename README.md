@@ -24,17 +24,28 @@
 
 **Thoughts**: These are some blocks of code that are too small to have their own repositories, but have very specific purposes which I can refer to in the future when I am coding for bigger projects. The first doodle is a button that converts the temperature in fahrenheit to celsius. I'm getting more and more used to playing around with GitHub ✨
 
-**Link to work**
-1. [Helenism Doodles - Fahrenheit to Celcius](https://github.com/helenism/helenism-doodles)
+**Links to work**
+1. [Helenism Doodles](https://github.com/helenism/helenism-doodles)
+2. [Fahrenheit to Celsius](https://github.com/helenism/helenism-doodles/blob/master/fahrenheit-to-celsius.html)
 
 ### Day 4: Saturday 2nd June 2018
 
 **Today's Progress**: I converted strings in an array into a list using JavaScript. 
 
-**Thoughts**: This helped me to practice using loops in a real life situation and dealing with tag id's.
+**Thoughts**: This helped me to practice using loops in a real life situation and dealing with tag id's. The code can be found in [Helenism Doodles](https://github.com/helenism/helenism-doodles).
 
 **Link to work**
-1. [Helenism Doodles - Array to List](https://github.com/helenism/helenism-doodles)
+1. [Array to List](https://github.com/helenism/helenism-doodles/blob/master/array-to-list.html)
 
-<hr>
+### Day 5: Sunday 3rd June 2018
+
+**Today's Progress**: I created a webpage on which each time the customer clicks a button to enter the price of a purchase, it is added to a list. When the customer clicks the second button, the total price and the 20% tip are calculated and shown. 
+
+**Thoughts**: Arrays were a bit of a new concept for me, so it was great to actually use them to understand how they work. I learned some new array properties too. At first I thought of creating a form for the customer to enter the prices, but quickly realised an array would be better. Using a JavaScript-controlled button, the customer can keep adding prices to an array, which I can work with.
+
+**Links to work**
+1. [Project: Restaurant](https://github.com/helenism/project-restaurant)
+2. [Calculating a 20% Tip (HTML; JS)](https://github.com/helenism/project-restaurant/blob/master/tip.html)
+
+#
 Stay updated with my progress via https://twitter.com/_helenism
