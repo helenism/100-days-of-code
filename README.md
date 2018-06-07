@@ -50,6 +50,13 @@
 **Links to work**
 1. [Project: Restaurant](https://github.com/helenism/project-restaurant)
 2. [Calculating a 20% Tip](https://github.com/helenism/project-restaurant/blob/master/tip.html)
+<hr>
+
+### Day 6: Tuesday 5th June 2018
+
+**Today's Progress**: I played around with JavaScript functions in Atom as I followed my fave [JavaScript YouTube video tutorial by Derek Banas](https://www.youtube.com/watch?v=fju9ii8YsGs&t=966s). I also learned how to manipulate arrays some more.
+
+**Thoughts**: I also learned what += does. X += Y means X = X + Y so X keeps changing each time the function is cycled through. Oh, how I love maths.
 
 #
 Stay updated with my progress via https://twitter.com/_helenism
