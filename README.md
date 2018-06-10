@@ -57,6 +57,13 @@
 **Today's Progress**: I played around with JavaScript functions in Atom as I followed my fave [JavaScript YouTube video tutorial by Derek Banas](https://www.youtube.com/watch?v=fju9ii8YsGs&t=966s). I also learned how to manipulate arrays some more.
 
 **Thoughts**: I also learned what += does. X += Y means X = X + Y so X keeps changing each time the function is cycled through. Oh, how I love maths.
+<hr>
+
+### Day 7: Sunday 10th June 2018
+
+**Today's Progress**: I created a [tribute page](https://github.com/helenism/tribute-pages) for my favourite jazz composer, Nikolai Kapustin.
+
+**Thoughts**: Aside from some more imaginative CSS, the part I need to work on is making the pictures resize as the browser's size changes. At the moment, the two photos are responsive but have static dimensions.
 
 #
 Stay updated with my progress via https://twitter.com/_helenism
