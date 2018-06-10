@@ -61,9 +61,13 @@
 
 ### Day 7: Sunday 10th June 2018
 
-**Today's Progress**: I created a [tribute page](https://github.com/helenism/tribute-pages) for my favourite jazz composer, Nikolai Kapustin.
+**Today's Progress**: I created a [tribute page](https://github.com/helenism/tribute-pages) for my favourite jazz composer, Nikolai Kapustin. I made a HTML and an external CSS file.
 
 **Thoughts**: Aside from some more imaginative CSS, the part I need to work on is making the pictures resize as the browser's size changes. At the moment, the two photos are responsive but have static dimensions.
+
+**Link to work**
+1. [Tribute Pages](https://github.com/helenism/tribute-pages)
+
 
 #
 Stay updated with my progress via https://twitter.com/_helenism
