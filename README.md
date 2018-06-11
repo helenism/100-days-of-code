@@ -74,7 +74,7 @@
 
 **Today's Progress**: I improved my tribute page on Kapustin **a lot**, fixing the issue with the images being static. They now resize as the viewport width changes. Horray!
 
-**Thoughts**: I threw in some border-radius CSS to make the images and blockqupte more interesting to look at. I managed to center the timeline (list) by adding <code>margin: auto</code> to <code>ul</code> in the CSS, even though I had <code>text-align: center</code> to keep the dates aligned.
+**Thoughts**: I threw in some border-radius CSS to make the images and blockquote look more interesting to look at. Curved edges are fancy. I managed to center the timeline by adding <code>margin: auto</code> to <code>ul</code> in the CSS, even though I had <code>text-align: center</code> to keep the dates aligned.
 
 **Link to work**
 1. [Nikolai Kapustin Tribute Page](https://github.com/helenism/tribute-pages/tree/master/kapustin)
