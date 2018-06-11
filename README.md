@@ -66,7 +66,7 @@
 **Thoughts**: Aside from some more imaginative CSS, the part I need to work on is making the pictures resize as the browser's size changes. At the moment, the two photos are responsive but have static dimensions.
 
 **Link to work**
-1. [Tribute Pages](https://github.com/helenism/tribute-pages)
+1. [Nikolai Kapustin Tribute Page](https://github.com/helenism/tribute-pages/tree/master/kapustin)
 <hr>
 
 
