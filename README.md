@@ -70,7 +70,7 @@
 <hr>
 
 
-### Day 8: Sunday 11th June 2018
+### Day 8: Monday 11th June 2018
 
 **Today's Progress**: I improved my tribute page on Kapustin **a lot**, fixing the issue with the images being static. They now resize as the viewport width changes. Horray!
 
