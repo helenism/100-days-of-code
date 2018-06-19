@@ -79,6 +79,13 @@
 **Links to work**
 1. [Nikolai Kapustin Tribute Page](https://github.com/helenism/tribute-pages/tree/master/kapustin)
 2. [Video Tweet of the Responsiveness](https://twitter.com/_helenism/status/1006129971218341888)✨
+<hr>
+
+### Day 9: Tuesday 19th June 2018
+
+**Today's Progress**: I made an informative HTML webpage (spiced with some CSS of course) at my first (free) coding bootcamp class with CodeFirst:Girls.
+
+**Thoughts**: It was lovely to work alongside other people who code. I look forward to our group projects, where I'll learn how to program as a team.
 
 #
 Stay updated with my progress via https://twitter.com/_helenism
