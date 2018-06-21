@@ -86,6 +86,17 @@
 **Today's Progress**: I made an informative HTML webpage (spiced with some CSS of course) at my first (free) coding bootcamp class with CodeFirst:Girls.
 
 **Thoughts**: It was lovely to work alongside other people who code. I look forward to our group projects, where I'll learn how to program as a team.
+<hr>
+
+### Day 10: Wednesday 20th June 2018
+h
+**Today's Progress**: I am working on my personal website.
+
+**Thoughts**: Most of the work has been on the CSS. Media query, floats, transparent elements
+
+**Links to work**
+1. [My website - Helen Onunwa](helenonunwa.com)
+2. [Video Tweet of my website's work in progress](#)✨
 
 #
 Stay updated with my progress via https://twitter.com/_helenism
