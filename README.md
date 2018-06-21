@@ -92,7 +92,7 @@
 
 **Today's Progress**: I am working on my personal website from scratch!✨
 
-**Thoughts**: Most of the work has been on the CSS. Media query, floats, transparent elements and more... For now, I just have a home and contact page, but all the links in the navigation bar are functional. I'm going to work on getting the positions of certain <code><div></code> sections where I want them to be and add more content to the pages. Soon, I'll link the updated site up to my server, so stay tuned!
+**Thoughts**: Most of the work has been on the CSS. Media query, floats, transparent elements and more... For now, I just have a home and contact page, but all the links in the navigation bar are functional. I'm going to work on getting the positions of certain div sections where I want them to be and add more content to the pages. Soon, I'll link the updated site up to my server, so stay tuned!
 
 **Links to work**
 1. [My website - helenonunwa.com](helenonunwa.com)
