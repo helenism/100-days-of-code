@@ -95,7 +95,7 @@
 **Thoughts**: Most of the work has been on the CSS. Media query, floats, transparent elements and more... For now, I just have a home and contact page, but all the links in the navigation bar are functional. I'm going to work on getting the positions of certain div sections where I want them to be and add more content to the pages. Soon, I'll link the updated site up to my server, so stay tuned!
 
 **Links to work**
-1. [My website - helenonunwa.com](helenonunwa.com)
+1. [My website - helenonunwa.com](http://helenonunwa.com)
 2. [Video Tweet of my website's work in progress](https://twitter.com/_helenism/status/1009741737345110017)✨
 
 #
