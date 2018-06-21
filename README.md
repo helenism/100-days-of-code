@@ -92,11 +92,11 @@
 h
 **Today's Progress**: I am working on my personal website.
 
-**Thoughts**: Most of the work has been on the CSS. Media query, floats, transparent elements
+**Thoughts**: Most of the work has been on the CSS. Media query, floats, transparent elements and more...
 
 **Links to work**
-1. [My website - Helen Onunwa](helenonunwa.com)
-2. [Video Tweet of my website's work in progress](#)✨
+1. [My website - helenonunwa.com](helenonunwa.com)
+2. [Video Tweet of my website's work in progress](https://twitter.com/_helenism/status/1009741737345110017)✨
 
 #
 Stay updated with my progress via https://twitter.com/_helenism
