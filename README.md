@@ -97,6 +97,17 @@
 **Links to work**
 1. [My website - helenonunwa.com](http://helenonunwa.com)
 2. [Video Tweet of my website's work in progress](https://twitter.com/_helenism/status/1009741737345110017)✨
+<hr>
+
+### Day 11: Sunday 24th June 2018
+
+**Today's Progress**: My favourite Nigerian resraurant doesn't have a menu webpage! 😱 So I decided to start building it myself.
+
+**Thoughts**: Restaurant websites is one of those core finished projects one should have on their portfolio and I absolutely love this restaurant in London called 805 Restaurants. I'm going to implement some sample mouth-watering photos and JavaScript to make the webpage nicer to interact with.
+
+**Links to work**
+1. [Project - 805 Restaurants](https://github.com/helenism/project-805-restaurants)
+2. [Image Tweet of my website's work in progress](#)✨
 
 #
 Stay updated with my progress via https://twitter.com/_helenism
