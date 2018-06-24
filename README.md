@@ -8,7 +8,7 @@
 
 **Links to work**
 1. [Project - 805 Restaurants](https://github.com/helenism/project-805-restaurants)
-2. [Image Tweet of my website's work in progress](#) 🍽
+2. [Image Tweet of my menu page's work in progress](https://twitter.com/_helenism/status/1011031798099439624) 🍽
 <hr>
 
 ### Day 10: Wednesday 20th June 2018
