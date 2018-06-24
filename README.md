@@ -2,13 +2,13 @@
 
 ### Day 11: Sunday 24th June 2018
 
-**Today's Progress**: My favourite Nigerian resraurant doesn't have a menu webpage! 😱 So I decided to start building it myself.
+**Today's Progress**: My favourite Nigerian resraurant doesn't have a menu webpage! 😱 So I decided to start building it myself. 🤤
 
 **Thoughts**: Restaurant websites is one of those core finished projects one should have on their portfolio and I absolutely love this restaurant in London called 805 Restaurants. I'm going to implement some sample mouth-watering photos and JavaScript to make the webpage nicer to interact with.
 
 **Links to work**
 1. [Project - 805 Restaurants](https://github.com/helenism/project-805-restaurants)
-2. [Image Tweet of my website's work in progress](#)✨
+2. [Image Tweet of my website's work in progress](#) 🍽
 <hr>
 
 ### Day 10: Wednesday 20th June 2018
@@ -66,8 +66,7 @@
 **Thoughts**: Arrays were a bit of a new concept for me, so it was great to actually use them to understand how they work. I learned some new array properties too. At first I thought of creating a form for the customer to enter the prices, but quickly realised an array would be better. Using a JavaScript-controlled button, the customer can keep adding prices to an array, which I can work with.
 
 **Links to work**
-1. [Project: Restaurant](https://github.com/helenism/project-restaurant)
-2. [Calculating a 20% Tip](https://github.com/helenism/project-restaurant/blob/master/tip.html)
+1. [Calculating a 20% Tip](https://github.com/helenism/project-805-restaurants/blob/master/tip.html)
 <hr>
 
 ### Day 4: Saturday 2nd June 2018
