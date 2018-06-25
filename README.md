@@ -6,7 +6,7 @@
 
 **Thoughts**: I used JQuery by building a button switch that makes a paragraph of text appear and disappear. I quite like how JQuery is so readable and simplified compared to "vanilla JavaScript."
 
-**Links to work**
+**Link to work**
 1. [Make Things Disappear and Reappear](https://github.com/helenism/helenism-doodles/blob/master/make-things-disappear.html)
 <hr>
 
