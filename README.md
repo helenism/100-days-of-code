@@ -1,5 +1,15 @@
 # 100 Days Of Code - Helen's Log
 
+### Day 12: Monday 25th June 2018
+
+**Today's Progress**: Using JQuery to toggle a paragraph.
+
+**Thoughts**: I used JQuery by building a button switch that makes a paragraph of text appear and disappear. I quite like how JQuery is so readable and simplified compared to "vanilla JavaScript."
+
+**Links to work**
+1. [Make Things Disappear and Reappear](https://github.com/helenism/helenism-doodles/blob/master/make-things-disappear.html)
+<hr>
+
 ### Day 11: Sunday 24th June 2018
 
 **Today's Progress**: My favourite Nigerian resraurant doesn't have a menu webpage! 😱 So I decided to start building it myself. 🤤
