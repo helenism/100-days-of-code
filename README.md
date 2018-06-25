@@ -76,7 +76,7 @@
 **Thoughts**: Arrays were a bit of a new concept for me, so it was great to actually use them to understand how they work. I learned some new array properties too. At first I thought of creating a form for the customer to enter the prices, but quickly realised an array would be better. Using a JavaScript-controlled button, the customer can keep adding prices to an array, which I can work with.
 
 **Links to work**
-1. [Calculating a 20% Tip](https://github.com/helenism/project-805-restaurants/blob/master/tip.html)
+1. [Calculating a 20% Tip](https://github.com/helenism/calculating-tip/tree/master)
 <hr>
 
 ### Day 4: Saturday 2nd June 2018
