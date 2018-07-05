@@ -1,5 +1,33 @@
 # 100 Days Of Code - Helen's Log
 
+### Day 14: Thursday 5th July 2018
+
+**Today's Progress**: Using Python to code a number guessing game!
+**Thoughts**: This is my first Python project! I can actually use code to communicate with people!
+
+**Link to work**
+1. [Number Guessing Game](https://github.com/helenism/number-guessing-game)
+<hr>
+
+### Day 13: Wednesday 4th July 2018
+
+**Today's Progress**: Flexgrid saves the day! - Fixing my footer
+**Thoughts**: I learned how to use flexbox CSS to fix the columns and appearance of my restaurant menu footer. I also used font awesome!
+
+**Link to work**
+1. [Image tweet of my flexbox footer](https://twitter.com/_helenism/status/1014538342883647489)
+<hr>
+
+### Day 12: Tuesday 3rd July 2018
+
+**Today's Progress**: Using bootstrap for a restaurant page
+
+**Thoughts**: I was a bit fed up with my layout not being how I wanted it, so I used bootstrap.
+
+**Link to work**
+1. [Bootstrap branch of restaurant menu](https://github.com/helenism/project-805-restaurants/tree/Bootstrap)
+<hr>
+
 ### Day 12: Monday 25th June 2018
 
 **Today's Progress**: Using JQuery to toggle a paragraph.
@@ -29,7 +57,7 @@
 
 **Links to work**
 1. [My website - helenonunwa.com](http://helenonunwa.com)
-2. [Video Tweet of my website's work in progress](https://twitter.com/_helenism/status/1009741737345110017)✨
+2. [Video tweet of my website's work in progress](https://twitter.com/_helenism/status/1009741737345110017)✨
 <hr>
 
 
@@ -60,7 +88,6 @@
 **Link to work**
 1. [Nikolai Kapustin Tribute Page](https://github.com/helenism/tribute-pages/tree/master/kapustin)
 <hr>
-
 
 ### Day 6: Tuesday 5th June 2018
 
