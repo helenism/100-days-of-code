@@ -1,5 +1,17 @@
 # 100 Days Of Code - Helen's Log
 
+### Day 15: Friday 6th July 2018
+
+**Today's Progress**: Deploying my 805 Restaurant Menu webpage!
+
+**Thoughts**: I am happy with how far this project has gone! [My webpage](https://helenism.github.io/project-805-restaurants/) looks indistinguishable to the [official 805 Restaurant website](http://805restaurants.com/home.php). This isn't a clone (no menu page exists on their website), but my menu page looks like it came right from there! :D
+
+I've used HTML, flexbox and grid in my CSS, JavaScript (JQuery), font awesome, Google fonts and *a lot* of mental energy to build this. There's still much more I can do, like implementing Bootstrap scrollspy. I think that'll make it more sophisicated~
+
+**Link to work**
+1. [Live: 805 Restaurants Menu Webpage I made from scratch as a project](https://helenism.github.io/project-805-restaurants/)
+<hr>
+
 ### Day 14: Thursday 5th July 2018
 
 **Today's Progress**: Using Python to code a number guessing game!
@@ -12,6 +24,7 @@
 ### Day 13: Wednesday 4th July 2018
 
 **Today's Progress**: Flexgrid saves the day! - Fixing my footer
+
 **Thoughts**: I learned how to use flexbox CSS to fix the columns and appearance of my restaurant menu footer. I also used font awesome!
 
 **Link to work**
