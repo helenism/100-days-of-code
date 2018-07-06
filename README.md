@@ -9,7 +9,7 @@
 I've used HTML, flexbox and grid in my CSS, JavaScript (JQuery), font awesome, Google fonts and *a lot* of mental energy to build this. There's still much more I can do, like implementing Bootstrap scrollspy. I think that'll make it more sophisicated~
 
 **Link to work**
-1. [Live: 805 Restaurants Menu Webpage I made from scratch as a project](https://helenism.github.io/project-805-restaurants/)
+1. ✨✨✨[Live: 805 Restaurants Menu Webpage I made from scratch as a project](https://helenism.github.io/project-805-restaurants/)✨✨✨
 <hr>
 
 ### Day 14: Thursday 5th July 2018
