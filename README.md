@@ -1,5 +1,18 @@
 # 100 Days Of Code - Helen's Log
 
+### Day 16: Thursday 12th July 2018
+
+**Today's Progress**: Using Python to process user input
+
+**Thoughts**: Making use of arguement variables and if/else statements, I wrote a Python program which asks the user questions based on their previous answer and then summarises the information to the user. 
+
+Programming in Python has made me really comfortable with using the command line interface. Moreover, my knowledge of JavaScript has helped me to understand Python. 🐍
+
+**Links to work**
+1. [Q&A Conversation Program - Python](https://github.com/helenism/helenism-doodles/blob/master/conversation-program.py)
+2. [Helenism Doodles (for more of my small projects like this)](https://github.com/helenism/helenism-doodles)
+<hr>
+
 ### Day 15: Friday 6th July 2018
 
 **Today's Progress**: Deploying my 805 Restaurant Menu webpage!
